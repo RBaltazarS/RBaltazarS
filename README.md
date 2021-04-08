@@ -10,4 +10,6 @@ I Am An Apprentice In Front-End Web Development :man_student:
 - :desktop_computer: Web Development 
 - :martial_arts_uniform: Brazilian Bjj Athlete
 
+## Connect With Me:
+
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/baltazarbjj/)](https://www.instagram.com/baltazarbjj/)
