@@ -13,9 +13,11 @@ I Am An Apprentice In Front-End Web Development :man_student:
 ## My Skills:
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img 
+ 
 
 ## Connect With Me:
 
