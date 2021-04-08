@@ -13,6 +13,7 @@ I Am An Apprentice In Front-End Web Development :man_student:
 ## My Skills:
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+<i class="devicon-javascript-plain"></i>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
