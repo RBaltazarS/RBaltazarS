@@ -4,7 +4,7 @@ My Name Is Rodolpho Baltazar 🇧🇷
 
 I Am An Apprentice In Front-End Web Development :man_student:	
 
-##  🧠 "Sem Historias Tristes, Buscando Evoluir!" 🧠
+##  🧠 "Sem Historias Tristes!" 🧠
 
 - :earth_americas: Living In Salvador-Ba Brazil
 - :desktop_computer: Web Development 
